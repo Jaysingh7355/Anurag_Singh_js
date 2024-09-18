@@ -1,0 +1,1 @@
+const userAge = 24;
