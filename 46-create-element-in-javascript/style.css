@@ -1,0 +1,13 @@
+.container{
+    color: green;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 8px;
+}
+
+img{
+    width: 60px;   
+}
+
+
